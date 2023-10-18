@@ -1,0 +1,12 @@
+/* styles.css */
+.form-container {
+    display: flex;
+    background-color: blue;
+    color: white;
+  }
+  
+  .button-blue {
+    background-color: royalblue;
+    color: white;
+  }
+  
